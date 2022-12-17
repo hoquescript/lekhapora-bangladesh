@@ -31,22 +31,22 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="client/src/assets/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Lekhapora Bangladesh</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Interdepartmental Communication System is a web-based application software designed to introduce a conducive and structured information exchange environment for integrating students and teachers of the university.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/WahidHoquee/lekhapora-bangladesh"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://lekhapora.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/WahidHoquee/lekhapora-bangladesh/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/WahidHoquee/lekhapora-bangladesh/issues">Request Feature</a>
   </p>
 </div>
 
