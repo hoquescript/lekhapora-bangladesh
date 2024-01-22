@@ -41,7 +41,5 @@
 It is a platform for sharing class notes, lectures, assignment management, progress management, events management, attendance management.
 #### Learning Management System
 This application is used for the management, delivery, monitoring and control education activities for any educational institution or organization.
-#### Secured System
-It is based on BlockChain Technology. It was designed to introduce a conducive and structured information exchange environment for integrating students and teachers of the university in a secured way.
 #### Communication System
 It is a communication system where teachers and students perform all of their education interaction using this platform.
